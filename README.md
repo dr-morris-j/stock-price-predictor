@@ -1,6 +1,8 @@
 # stock-price-predictor
 Stock Price Prediction Using Support Vector Machines
 
+Read more about support vector machines [here](https://machinelearningmastery.com/support-vector-machines-for-machine-learning/).
+
 ### About the model.
 
 This machine learning model uses the support vector classifier.
