@@ -5,7 +5,9 @@ Read more about support vector machines [here](https://machinelearningmastery.co
 
 ### About the model.
 
-This machine learning model uses the support vector classifier.
+This machine learning model uses the Support Vector machine Classifier (SVC).
+
+Read more about SVC in Sci-Kit Learn [here](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html).
 
 This model is for display purposes only. 
 
